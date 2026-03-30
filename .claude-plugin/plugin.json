@@ -1,0 +1,7 @@
+{
+  "name": "power-dev",
+  "description": "PM-driven development workflow combining feature-dev's parallel codebase exploration and architecture design with superpowers' TDD, systematic debugging, and verification. Manages context across sessions via file-based handoff for long-running feature development.",
+  "author": {
+    "name": "hackerman"
+  }
+}
